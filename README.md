@@ -1,3 +1,6 @@
-Hi! I am Omkar, new to code!
+Hi! I am Omkar!
 
-Will be at the top of CodeForces within a few years
+My Skills:
+1. WordPress — Elementor, Divi, Bricks Builder, and more
+2. Framer
+3. Webflow
